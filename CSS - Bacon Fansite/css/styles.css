@@ -1,0 +1,16 @@
+h1 {
+  color : green;
+  font-size: 200px;
+}
+
+.avocado {
+  background-color : red;
+}
+
+.bacon {
+  background-color : green;
+}
+
+img:hover {
+  background-color: gold; 
+}
